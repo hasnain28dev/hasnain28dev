@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasnain28dev
-- 👀 I’m interested in Interested in data science, artificial intelligence, and cybersecurity.
+- 👀 I’m interested in cloud computing, artificial intelligence, and cybersecurity.
 - 🌱 I’m currently learning about open-source projects, web development, and machine learning.
-- 💞️ I’m looking to collaborate on projects related to accessibility and inclusivity in tech
+- 💞️ I’m looking to collaborate on projects related to accessibility and inclusivity in tech.
 - 📫 You can reach me via my e-mail: hasnainismail@rocketmail.com
 
 <!---
